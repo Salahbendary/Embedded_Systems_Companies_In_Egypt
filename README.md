@@ -1,10 +1,10 @@
-# Electronics Companies in Egypt
+# Embedded Systems Companies in Egypt
 
 Hi,
 
 In this repository, you'll find a comprehensive list of Embedded System companies in Egypt for easy reference.
 
-# The List (Companies)
+#  Embedded Systems Companies in Egypt
 
 | #   | Logo                                                                      | Company Name                    | Field           | Company/Online Page                                                                                                        | Location                             |
 | --- | ---                                                                       | ---                             | ---             | ---                                                                                                                           | ---                                  |
