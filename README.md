@@ -66,8 +66,8 @@ In this repository, you'll find a comprehensive list of Embedded System companie
 | 56 | <img width="100%" height="100%" src="./Images/Vehiclevo.png">           | Vehiclevo                        | Automotive       | [Website](https://vehiclevo.de/)     | Sheikh Zayed   |
 | 57  | <img width="100%" height="100%" src="./Images/VxLabs.jpg">                | VxLabs                            | Automotive | [Website](https://vxlabs.de/en/careers/) |
 | 58  | <img width="100%" height="100%" src="./Images/Xtrava.jpg">              | Xtrava                           | Machine Learning  | [Website](http://xtrava.co/)                                                              |
-| 59  | <img width="100%" height="100%" src="./Images/Elarabygroup.jpg">              | El-Araby Group                           | IoT  | [Website](https://www.linkedin.com/company/elarabygroup/)                                                         Cairo     |
-| 60  | <img width="100%" height="100%" src="./Images/CairoMotive.jpg">              | CairoMotive                          | Automotive  | [Website](https://www.linkedin.com/company/cairomotive/)                                                  Al Wafaa WA Al Amal, Cairo            |
+| 59  | <img width="100%" height="100%" src="./Images/Elarabygroup.jpg">              | El-Araby Group                           | IoT  | [Website](https://www.linkedin.com/company/elarabygroup/)                                                           |   Cairo  |
+| 60  | <img width="100%" height="100%" src="./Images/CairoMotive.jpg">              | CairoMotive                          | Automotive  | [Website](https://www.linkedin.com/company/cairomotive/)                                                        |     Al Wafaa WA Al Amal, Cairo  |
 
 
 
